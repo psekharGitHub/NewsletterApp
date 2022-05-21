@@ -1,3 +1,9 @@
 install heroku
 set port to process.env.PORT
 set up Procfile
+set up git using "git init", "git config user.name <username>", "git config user.email <email>"
+connect it with heroku
+create a heroku app
+Push local files to heroku by "git push heroku master"
+
+Website: https://fathomless-crag-83190.herokuapp.com/

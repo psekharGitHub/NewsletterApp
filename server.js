@@ -42,7 +42,7 @@ app.post("/", function(req, res) {
     //basic https authentication
     const options = {
         method: "POST",
-        auth: "purnendu:sef8fcd8213b2cef7bef0a06dd136e27f-us10"
+        auth: "purnendu:ef8fcd8213b2cef7bef0a06dd136e27f-us10"
     };
 
     const request = https.request(url, options, function(response) {
