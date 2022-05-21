@@ -7,3 +7,9 @@ create a heroku app
 Push local files to heroku by "git push heroku master"
 
 Website: https://fathomless-crag-83190.herokuapp.com/
+
+
+
+Essential Git Command
+-----------------------
+git reset --hard <branch-name>   //deletes everything from local and updates it with the branch version
